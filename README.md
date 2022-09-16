@@ -1,2 +1,2 @@
 # .github
-Guide
+This is for Guide.
