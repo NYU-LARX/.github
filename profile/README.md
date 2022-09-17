@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Import your work but make it private. We only want our members in the lab to visit our private stuff!
+Import your work but make it private if it is not finished. We only want our members in the lab to visit our private stuff!
 <!--
 
 **Here are some ideas to get you started:**
