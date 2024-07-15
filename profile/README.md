@@ -1,3 +1,3 @@
 ## Hi there 👋 Please check our NSF workshop on Large Language Models for Network Security at https://nyu-larx.github.io/nsf-llm4security/
 
-
+The NSF Workshop on Large Language Models for Network Security brings together leading researchers from interdisciplinary fields in academia, industry, and government to discuss and summarize current research issues, identify challenges, and outline future directions for LLM for network security. The workshop will be held over one and a half days in New York, NY, and will be hosted by New York University (NYU) and its Center for Cybersecurity (CCS). This workshop aims to create three focus areas: 1) LLMs for Software and Network Security, 2) LLMs for Secure and Resilient Network Service and Management, and 3) Human and Social Aspects of LLMs in Cybersecurity.
